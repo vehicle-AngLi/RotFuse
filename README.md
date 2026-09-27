@@ -1,5 +1,5 @@
 # RotFuse
-This directory contains the minimal inference release for **“A generic lightweight multi-modal image information fusion architecture”** (Neurocomputing, 2027). It loads the released checkpoint and fuses one aligned visible/SWIR/LWIR image triplet into one RGB image. Training, comparison-baseline, segmentation, and detection code are intentionally outside the scope of this minimal inference package.
+This directory contains the release for **“A generic lightweight multi-modal image information fusion architecture”** (Neurocomputing, 2027).
 
 # These sources will be released within 1 month after acceptance
 - [x] ~~Network for Naive Tri-modal Fusion Baselines~~
